@@ -11,4 +11,4 @@ When reporting an issue, please provide as much detail as possible about how to 
 * Actual results
 * Expected results
 
-  [issue tracker]: https://github.com/hyperledger/_PROJECT_/issues
+  [issue tracker]: https://github.com/hyperledger/Caliper/issues

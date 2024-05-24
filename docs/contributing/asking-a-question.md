@@ -10,8 +10,8 @@
 ## Chat
 [Hyperledger’s Discord server](https://discord.gg/hyperledger) is the place to go for real-time chat about everything from quick help to involved discussions.
 
-For general Hyperledger _PROJECT_ discussions, join the Discord server and visit #_PROJECT_.
+For general Hyperledger Caliper discussions, join the Discord server and visit #Caliper.
 
 ## Mailing Lists
-The Hyperledger _PROJECT_ mailing list is hosted by the Hyperledger Foundation: https://lists.hyperledger.org. 
+The Hyperledger Caliper mailing list is hosted by the Hyperledger Foundation: https://lists.hyperledger.org. 
 

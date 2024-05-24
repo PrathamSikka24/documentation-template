@@ -1,70 +1,18 @@
-# Introduction
+# An Introduction to Hyperledger Caliper
 
-This repository contains a template that will allow you to quickly bring up a documentation site for Hyperledger _PROJECT_. In general, the template provides suggested topics that should be covered in your documentation; however, you can always add/remove content to fit the needs of the project.
+Hyperledger Caliper is an open-source performance benchmarking tool designed for blockchain solutions. It enables users to measure and compare the performance of various blockchain platforms using predefined use cases. Caliper provides valuable performance metrics to help users select the most suitable platform for their specific needs.
 
-The following changes need to be done to update the documentation for your project.
-
-## Configuration Updates
-
-### Site Name
-
-Change the `site_name` tag in `mkdocs.yml` to reflect the name of your Hyperledger project.
-
-!!! example
+!!! Name
     ``` yaml
-    site_name: Hyperledger Bevel
+    site_name: Hyperledger Caliper
     ```
 
-### Repo URL
-
-Change the `repo_url` tag in `mkdocs.yml` to reflect the repository of your Hyperledger project.
-
-!!! example
+!!! Repository URL
     ``` yaml
-    repo_url: https://github.com/hyperledger/_PROJECT_
+    repo_url: https://github.com/hyperledger/caliper
     ```
-
-### Project Logo
-
-Replace the file `docs/assets/project-logo.png` with the logo for your project.
-
-!!! tip
-
-    White logos with a transparent background works best for the project logo.
-
-!!! warning Logo Filename
-
-    If you use a different name than `project-logo.png`, you will also need to update the `mkdocs.yml` file to replace the `theme.logo` tag to reflect the correct filename. Example:
-
-    !!! example
-        ``` yaml
-        theme:
-          logo: assets/name-of-logo-file.png
-        ```
-
-### Project Icon
-
-Replace the file `docs/assets/project-icon.png` with the icon for your project.
-
-!!! tip
-
-    Color or dark icons works best for the project icon.
-
-!!! warning Icon Filename
-
-    If you use a different name than `project-icon.png`, you will also need to update the `mkdocs.yml` file to replace the `theme.favicon` tag to reflect the correct filename. Example:
-
-    !!! example
-        ``` yaml
-        theme:
-          favicon: assets/name-of-icon-file.png
-        ```
 
 ## Documentation Updates
-
-### Overall
-
-Find and replace the use of `_PROJECT_` with the name of your project in all markdown files and the `mkdocs.yml` file.
 
 ### Introduction
 

@@ -1,4 +1,4 @@
-site_name: Hyperledger _PROJECT_
+site_name: Hyperledger Caliper
 repo_name: hyperledger-labs/documentation-template
 repo_url: https://github.com/hyperledger-labs/documentation-template
 theme:
@@ -85,9 +85,9 @@ nav:
   - Cover Letter: cover-letter.md
   - Introduction: index.md
   - Concepts:
-      - Concept 1: concepts/concept-1.md
-      - Concept 2: concepts/concept-2.md
-      - Concept 3: concepts/concept-3.md
+      - Benchmarks and Scenarios: concepts/concept-1.md
+      - Modular Architecture: concepts/concept-2.md
+      - Performance Metrics and Reporting: concepts/concept-3.md
   - Getting Started:
       - Installation: getting-started/installation.md
       - Running: getting-started/running.md
@@ -95,7 +95,7 @@ nav:
       - Introduction: tutorials/index.md
       - Tutorial 1: tutorials/tutorial-1.md
       - Tutorial 2: tutorials/tutorial-2.md
-      - Tutorial 3: tutorials/tutorial-3.md
+      - Best Practices: tutorials/tutorial-3.md
   - Guides:
       - Operations: guides/operations.md
       - Developers: guides/developers.md
@@ -111,3 +111,5 @@ nav:
       - Asking a Question: contributing/asking-a-question.md
   - FAQs: faqs.md
   - Glossary: glossary.md
+extra_css:
+  - 'overrides/styles/custom.css'
