@@ -1,4 +1,4 @@
-# Best Practices for Using Hyperledger Caliper: A Comprehensive Guide
+# Best Practices for Using Hyperledger Caliper
 
 Hyperledger Caliper is a powerful tool for benchmarking blockchain platforms. To maximize its effectiveness, follow these best practices throughout your workflow:
 
