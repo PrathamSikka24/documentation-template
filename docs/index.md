@@ -47,9 +47,9 @@ The `docs/tutorials` directory will contain tutorials that the use can use to le
     nav:
      - Tutorials:
        - Introduction: tutorials/index.md
-       - Tutorial 1: tutorials/tutorial-1.md
-       - Tutorial 2: tutorials/tutorial-2.md
-       - Tutorial 3: tutorials/tutorial-3.md
+       - Benchmarking Multiple Blockchain Platforms with Hyperledger Caliper: tutorials/tutorial-1.md
+       - Building Custom Benchmarks using Hyperledger Caliper: tutorials/tutorial-2.md
+       - Best Practices: tutorials/tutorial-3.md
     ```
 ### Guides
 
