@@ -11,19 +11,19 @@ Explain the different tutorials that you have at a high level.
 
     ---
 
-    Learn how to ... (Enter description for tutorial 1).
+    Learn How To Benchmark Multiple Blockchain Platforms with Hyperledger Caliper.
 
 -   :fontawesome-solid-hat-wizard:{ .lg .middle } __[Tutorial 2](tutorial-2.md)__ 
 
     ---
 
-    Learn how to ... (Enter description for tutorial 2).
+    Learn how to Build Custom Benchmarks with Hyperledger Caliper.
 
 -   :material-school:{ .lg .middle } __[Tutorial 3](tutorial-3.md)__ 
 
     ---
 
-    Learn how to ... (Enter description for tutorial 3).
+    Learn the Best Practices for Using Hyperledger Caliper.
 
 
 </div>
